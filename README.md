@@ -1,6 +1,6 @@
 # Final Project: Mystic Fortune Teller Application
 
-### Author: Student
+### Author: Prabhjotnoor Singh
 ### Date: May 2026
 
 ---
@@ -20,4 +20,4 @@ The **Mystic Fortune Teller** is an interactive GUI Java application built using
 ---
 
 ## Video Demonstration
-A link to your testing video should be added here when uploaded to GitHub or hosted via an unlisted URL.
+(https://drive.google.com/file/d/1cjrSCURkENNrwzv9BV4LKzWhHDO1sCOf/view?usp=drive_link)
