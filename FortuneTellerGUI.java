@@ -6,7 +6,7 @@ import java.awt.event.ActionListener;
 /**
  * The FortuneTellerGUI class provides a graphical user interface for interacting 
  * with the Fortune Teller backend logic. It ensures exception handling on all user inputs.
- * * @author Student
+ * * @author Prabhjotnoor Singh
  * @version 1.0
  * @date May 16, 2026
  */
