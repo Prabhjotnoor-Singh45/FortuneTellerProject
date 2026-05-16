@@ -5,7 +5,7 @@ import java.util.Random;
  * The FortuneTellerBackend class handles the core logic of the Fortune Teller 
  * application. It manages the list of fortunes and handles random generation,
  * additions, and removals with built-in error prevention.
- * * @author Student
+ * * @author Prabhjotnoor Singh
  * @version 1.0
  * @date May 16, 2026
  */
@@ -89,11 +89,9 @@ public class FortuneTellerBackend {
             return "No fortunes available in the system.";
         }
         
-        StringBuilder formattedList = new StringBuilder("--- Current Fortunes ---
-");
+        StringBuilder formattedList = new StringBuilder("--- Current Fortunes ---");
         for (int i = 0; i < fortunes.size(); i++) {
-            formattedList.append(i).append(": ").append(fortunes.get(i)).append("
-");
+            formattedList.append(i).append(": ").append(fortunes.get(i)).append("");
         }
         return formattedList.toString();
     }
